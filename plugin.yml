@@ -1,0 +1,9 @@
+name: OwO
+version: 1.0
+author: Eclipse
+main: github.EclipseBETA.how.Main
+description: OwO
+
+commands:
+ owo:
+  description: OwO
